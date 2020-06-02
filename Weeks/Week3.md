@@ -1,7 +1,7 @@
 # Week 3 - The Web
 
 
-[Back](https://github.com/victorvallet/MyLearnings) | [Week 3 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-3)
+[Back](https://github.com/victorvallet/MyLearnings/tree/master/Weeks) | [Week 3 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-3)
 
 
 Week 3 Learning Objectives

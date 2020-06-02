@@ -1,6 +1,6 @@
 # Week 4 - Databases
 
-[Back](https://github.com/victorvallet/MyLearnings) | [Week 4 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-4)
+[Back](https://github.com/victorvallet/MyLearnings/tree/master/Weeks) | [Week 4 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-4)
 
 Week 4 Learning Objectives
 - [ ] Build a simple web app with a database

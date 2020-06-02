@@ -1,5 +1,5 @@
 # Week 2 - Object Oriented Programming
-[Back](https://github.com/victorvallet/MyLearnings) | [Week 2 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-2)
+[Back](https://github.com/victorvallet/MyLearnings/tree/master/Weeks) | [Week 2 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-2)
 
 **Week 2 Learning Objectives**
 - [x] Use all of week 1's skills

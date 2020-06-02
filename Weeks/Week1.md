@@ -1,6 +1,6 @@
 # Week 1 - Test Driven Development
 
-[Back](https://github.com/victorvallet/MyLearnings) | [Week 1 Outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-1)
+[Back](https://github.com/victorvallet/MyLearnings/tree/master/Weeks) | [Week 1 Outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-1)
 
 Learning objectives 
 - [x] Test-drive a simple program using objects and methods
